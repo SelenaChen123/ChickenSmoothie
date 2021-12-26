@@ -1,0 +1,257 @@
+# List Values
+
+## Unit Values
+
+  - Non = 12 Mid Advents
+  - Mid Advent = 8 2009 R
+
+## Main List Values
+
+  - 13 Nons
+    - Skelebun
+  - 10 Nons
+    - Orange Cerberus
+  - 6 Nons
+    - Drink Me
+  - 5 Nons
+    - Eat Me
+    - UR Tiger
+  - 4 Nons
+    - Raven
+    - Red Cerberus
+  - 3.5 Nons
+    - Sunback
+  - 3 Nons
+    - Brown Sleipnir
+    - Green/Jeweled/Nonjewel Liontail
+  - 2.5 Nons
+    - 08 UR Cat
+    - Sunjewel
+    - UR Bee
+  - 2.25 Nons
+    - Moonswirl
+  - 2 Nons
+    - Marionette
+    - UR Cinnabun
+    - UR Lion
+    - UR Kirin
+    - UR Zonkey
+  - 1.5 Nons
+    - BEG
+    - Blue Dragon PPS
+    - Clockwork Bun
+    - Coontail
+    - Dogtag
+    - Green Android
+    - Joker
+    - Patchwork
+    - UR Bengal
+    - UR Fox
+    - UR Galaxy Cat
+    - UR Peach
+    - UR Phoenix
+    - UR Smore
+    - UR Strawberry
+    - White Lolita
+  - 1.25 Nons
+    - CEG
+    - UR Holly
+    - UR Malk
+  - 1 Non
+    - Noncoon/Nonjewel/Nonswirl/Nontag
+    - BA
+    - GWJ
+    - July PPS
+    - UR Aussie
+    - UR Ice Cat
+  - .8 Non
+    - Grevy's Zebra
+    - Joker Bun
+    - UR B-Wolf
+    - UR Banana
+    - UR Butterbun
+    - UR Foal
+  - .75 Non
+    - BMD
+    - Nick Unicorn
+    - Pink Sorbet
+    - Red/Blue/Green Seal PPS
+    - UR Avocado
+    - UR Flower Pot
+    - UR Mint Horse
+    - UR Peas
+    - UR Pickle
+    - UR Pineapple
+    - UR Squid
+    - Yellow Toxic
+  - .66 Non
+    - 09 UR Dog
+    - Blue/Red/Yellow Android
+    - Mountain Zebra
+    - Orange/Pink/Yellow Punk
+    - Plains Zebra
+    - RBM
+  - .5 Non
+    - Blue/Green/Yellow Sorbet
+    - Nonballoon
+    - Pink/Blue Balloon
+    - Purple/Blue/Red/Green Toxic
+    - Spotted Tribal
+    - UR Grapes
+  - .4 Non
+    - Gearback Tribal
+    - Rose PPS
+    - UR Rat
+  - .33 Non
+    - Blue/Red Rose
+    - Cheshire Cat
+    - Clydesdale
+    - Grey/White Malk Dragon
+    - Line Tribal
+    - WWA
+  - .25 Non
+    - Dark Pink Shima B-Wolf
+    - Light/Dark Heart Rat
+    - Light/Dark Pawprint Rat
+    - Light/Medium/Heavy Speckled Rat
+    - Lime Ice Rat
+    - Red Malk Dragon
+    - Red-X PPS
+    - Skeleton PPS
+    - Tan/Shy/Angry Basilisk
+    - UR Apple
+    - UR Purple Horse
+    - White/Bay/Chestnut Arabian
+    - Wolf PPS
+
+## September List Values
+
+  - 2.5 Mid Advents
+    - Angel Advent
+    - Blood PPS
+    - Bumblebee Spider
+    - Dark Leopard
+    - Purple Batdog
+    - Purple Sleipnir
+    - Red-X
+  - 2 Mid Advents
+    - Flop-Eared Pink September
+    - Halloween Cat
+    - Palomino Tess Horse
+    - Pink Patchy September
+    - Pink Striped September
+    - Pink/Rainbow/Light/Tricolor/Lexi Cake Dog
+    - Sunjewel Bunny
+    - Winged Blood Dog
+  - 1.5 Mid Advents
+    - Blue Ice Rat
+    - Blue Rat
+    - Flower/Toxic Rat
+    - Light Leopard
+    - Lionfish/Green Spotted Mandarin/Betta/Arapaima Seahorse
+    - Orange/Blue/Red/Green/Pink/Purple Grinner
+    - Scarf PPS
+    - Skull Rat
+    - Summer/Autumn/Spring Forest Guardian
+    - Target Dog
+    - Tropical/Forest/Lava/Ice Gryphon
+
+## Advent List Values
+
+  - 1.5 Mid Advents
+    - Brown Santa Cat
+    - Brown/Grey/Zebra/White Carousel Horse
+    - Grey Mini Husky
+    - Hollyfox Cat
+    - Hollyfox Dog
+    - Hyena
+    - Timberwolf
+    - Vixen
+    - White Santa Cat
+  - 1.25 Mid Advents
+    - B&W Pointy-Eared Border Collie
+    - Bandersnatch
+    - Black/Cream/Brown/Green Fluffy Store Dog
+    - Black/Pink/Blue/Green Fairy Goat
+    - Blue Flower dog
+    - Blue/Green/Pink/Purple Alien Store Dog
+    - Boar PPS
+    - Bone PPS
+    - Brown/Orange Kirin
+    - Brown/Spotted/Floppy Jackalope
+    - Celestial PPS
+    - Cream Advent
+    - Dark Grey Tag Husky
+    - Desert/Orange-Swirl PPS
+    - Fire/Black Rainbow Unicorn
+    - Ghost Cat
+    - Green-Fronted Holly
+    - Grey/Brown Border Collie
+    - Heart PPS
+    - Ice Blue Swirl
+    - Jabberwocky
+    - Jubjub Bird
+    - Light Grey Speckled Husky
+    - Malk PPS Pup
+    - Pale Pink Blue-Spotted
+    - Pink Heart
+    - Pink Mini Husky
+    - Purple Star Bobtail
+    - Purple/Mustard Heart Husky
+    - Snowflake Lion
+    - Sockdog
+    - Teal/Red Butterbun
+    - Tinsel Lion
+    - Yellow/Pink Cookie
+  - 1 Mid Advent
+    - Blue Sorbet Bun
+    - BMD Bun
+    - Buckskin PPS
+    - Candy Cane B-Wolf
+    - Christmas Tree Dog
+    - Cream Santa Hat Advent
+    - Dice PPS
+    - Dogtag Bun
+    - Emerald B-Wolf
+    - Evil PPS
+    - Flop Blood Dog
+    - Galaxy Bun
+    - Green Toxic Bun
+    - Heart Advent Bun
+    - Hyena Bun
+    - Kiss PPS
+    - Moonswirl Bun
+    - Nick Cake Dog
+    - Ornament PPS
+    - Peppermint Eared
+    - Pink Balloon Bun
+    - PPS Cocoon
+    - Red-Fronted Holly
+    - Royal Bob Bun
+    - Snowflake B-Wolf
+    - Spotted Tribal Bun
+    - Tufted Blood Dog
+  - .5 Mid Advent
+    - Black/Grey Dutch Bun
+    - Blue Snowflake Scarf Dog
+    - Brown Red-String Horse
+    - Candy Cane Horse
+    - Chocolate Bun
+    - Cobweb Bun
+    - Dark Wood Dog
+    - Elf Rat
+    - Fireworks PPS
+    - Grown White Scarf Dog
+    - Jack 'O Lantern Rat
+    - Lilac Bun
+    - Peppermint Bun
+    - Pink/Purple/White String Horse
+    - Raver Bun
+    - Roadkill Pony
+    - Roadkill PPS
+    - Rose Rat
+    - Rudolph Rat
+    - Santa Rat
+    - Spiderwing B-Wolf
+    - White Tinsel Horse
+    - Zombie Pony
