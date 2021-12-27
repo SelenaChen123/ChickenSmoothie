@@ -449,11 +449,9 @@
     ```
     - 
       ```
-      [center]Hello again, everyone! I'm [i]so[/i] sorry this is a bit late, but I ran into some family issues and I  haven't had the time to really sit down, update the Secret Santa stuff, and send everyone this PM. But I finally took the time to update our spreadsheet, so I can finally send this out.
+      [center]Hello again, everyone! [strike]Last time I'm bothering you guys with a super long PM, I promise.[/strike] I wanted to send this message to finalize everything. I'll be checking off whether or not you gave and got a gift on my spreadsheet.
 
-      SO. Down to business. I wanted to send this message to (hopefully) finalize everything.
-
-      [size=150][b]Please reply to this message asap and answer these questions:[/b][/size]
+      [size=150][b]Please reply to this message ASAP and answer these questions:[/b][/size]
 
       [size=150][b]1. Did you get a gift from your Secret Santa?
 
@@ -463,9 +461,11 @@
 
       4. Would you like to be notified of next year's Secret Santa?[/b][/size]
 
-      I'll be checking off who got their gifts and who didn't on my spreadsheet. There are a couple of people that became inactive before I sent the previous PM's out, and that was my mistake. I should've checked in with everyone more often to make sure everyone was actively collecting gifts. I sincerely apologize to those that had to suffer the consequences of my mistake. I mentioned in the FAQ of the thread that those who don't give their gifts will be banned, but I can't ban inactive users. I'll just have to make note of who became inactive, to prepare for next year's Secret Santa. However, the active users who didn't give a gift and just took their gift from their Secret Santa will sadly have to be banned from participating in the future. Of course, that doesn't include the people that have given me reasonable explanations for why they couldn't give their gifts in time and sorted all of that out. Those people are fine. Some people were preoccupied with stuff offline, or simply forgot and didn't have any ill intent; that's totally understandable. But anyways, hopefully I won't have to ban and foe anyone so they can't participate in the future.
+      There are a couple of people that got banned/became inactive this December and I'm SO sorry if you were one of the ones affected by this! I mentioned in the FAQ of the thread that those who don't give their gifts will be banned, but I can't ban users that are already inactive. I'll just have to make note of who became inactive to prepare for next year's Secret Santa. Normally we send out a check-in PM during the event to make sure everything's still going well so we should've caught this earlier, but without going into too much detail, life got in the way of the Elves and me this year and we weren't able to send that mass check-in PM out. I'm really sorry! But regardless, I still hope you all enjoyed yourselves and were able to give/get something that made you smile! Goodness knows we need more kindness, love, and positivity more than ever this year.
 
-      I really, really enjoyed hosting this event. Everyone single one of you has been wonderful. I've said this many, many times already, but [u]thank you[/u] for participating. Without you all participating and having fun in this event, it would've been nothing. It's thanks to you kind and generous souls that 2019's Secret Santa event was a success; you all made the holiday season 100x more special. So thank you so much. I look forward to seeing you all participate next year! ♥[/center]
+      Any active users who didn't give a gift and just took their gift from their Secret Santa will be banned from participating in the future. Of course, that doesn't include the people that have given me reasonable explanations for why they couldn't give their gifts in time and have sorted all of that out with me. Those people are fine. Some people were preoccupied with stuff offline or simply forgot and didn't have any ill intent. That's totally understandable. But don't worry, I'll make sure that every single one of you gets the gift you deserve! If anyone doesn't get a gift from their Secret Santa for whatever reason, I'll personally send them a gift!
+
+      As always, I really, really enjoyed hosting this event for you guys. Everyone single one of you has been absolutely wonderful. I've said this many, many times already, but [u]thank you[/u] for participating. Without you all participating and having fun in this event, it would've been nothing. It's thanks to you kind and generous souls that 2021's Secret Santa event was a success; you all made the holiday season 1000x more special. So thank you all SO much. I look forward to seeing you all participate next year! ♥[/center]
       ```
     - 
       ```
