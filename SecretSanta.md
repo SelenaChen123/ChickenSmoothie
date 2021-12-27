@@ -635,7 +635,7 @@
       I'm really sorry to have to do this at the last second. >o< If you need help with anything, please don't hesitate to message me and ask! This is so very last-minute and I sincerely apologize![/center]
       ```
 
-## Hasn't Received Gift
+## Haven't Received Gift
 
   - 
     ```
@@ -657,6 +657,10 @@
       ```
       [center]Haha no worries, I totally understand. It'll probably be tomorrow in your time, but I'll send out one final mass PM soon to ask if everyone gave and got a gift. If you still don't receive your gift by then, I'll bear down on your Secret Santa. But don't worry, I'm sure your Secret Santa is just having a good time celebrating Christmas irl! Things get pretty busy around this time of year, so I'm sure they just haven't found the time to come online yet. c:[/center]
       ```
+  - 
+    ```
+    [center]I'm [i]so[/i] sorry you didn't receive a gift in time! You should've already received a gift by now. I'll send out a final mass PM soon to finalize everything and ask if everyone gave and got a gift, so I'll sort it out! Don't worry, I'll make sure you get a gift! (^u^)b[/center]
+    ```
   - 
     ```
     [center]I'm [i]so[/i] sorry you didn't receive a gift in time! I'll be messaging your Secret Santa to sort things out. In the meantime, I'll be personally sending you a gift. Thank you [i]so[/i] much for participating in 2020's Secret Santa event. I hope to see you participating again next year! c:[/center]
