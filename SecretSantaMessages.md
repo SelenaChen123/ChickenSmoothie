@@ -1,4 +1,4 @@
-# Secret Santa
+# Secret Santa Messages
 
 ## Registration
 
