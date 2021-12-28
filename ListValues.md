@@ -7,36 +7,35 @@
 
 ## Main List Values
 
-  - 13 Nons
+  - 10+ Nons (20000 C$)
     - Skelebun
-  - 10 Nons
     - Orange Cerberus
-  - 6 Nons
+  - 6 Nons (10000 C$)
     - Drink Me
-  - 5 Nons
+  - 5 Nons (9000 C$)
     - Eat Me
     - UR Tiger
-  - 4 Nons
+  - 4 Nons (7000 C$)
     - Raven
     - Red Cerberus
-  - 3.5 Nons
+  - 3.5 Nons (6000 C$)
     - Sunback
-  - 3 Nons
+  - 3 Nons (5500 C$)
     - Brown Sleipnir
     - Green/Jeweled/Nonjewel Liontail
-  - 2.5 Nons
+  - 2.5 Nons (5000 C$)
     - 08 UR Cat
     - Sunjewel
     - UR Bee
-  - 2.25 Nons
+  - 2.25 Nons (4500 C$)
     - Moonswirl
-  - 2 Nons
+  - 2 Nons (4000 C$)
     - Marionette
     - UR Cinnabun
     - UR Lion
     - UR Kirin
     - UR Zonkey
-  - 1.5 Nons
+  - 1.5 Nons (3000 C$)
     - BEG
     - Blue Dragon PPS
     - Clockwork Bun
@@ -53,25 +52,25 @@
     - UR Smore
     - UR Strawberry
     - White Lolita
-  - 1.25 Nons
+  - 1.25 Nons (2500 C$)
     - CEG
     - UR Holly
     - UR Malk
-  - 1 Non
+  - 1 Non (2000 C$)
     - Noncoon/Nonjewel/Nonswirl/Nontag
     - BA
     - GWJ
     - July PPS
     - UR Aussie
     - UR Ice Cat
-  - .8 Non
+  - .8 Non (1600 C$)
     - Grevy's Zebra
     - Joker Bun
     - UR B-Wolf
     - UR Banana
     - UR Butterbun
     - UR Foal
-  - .75 Non
+  - .75 Non (1500 C$)
     - BMD
     - Nick Unicorn
     - Pink Sorbet
@@ -84,32 +83,32 @@
     - UR Pineapple
     - UR Squid
     - Yellow Toxic
-  - .66 Non
+  - .66 Non (1250 C$)
     - 09 UR Dog
     - Blue/Red/Yellow Android
     - Mountain Zebra
     - Orange/Pink/Yellow Punk
     - Plains Zebra
     - RBM
-  - .5 Non
+  - .5 Non (1000 C$)
     - Blue/Green/Yellow Sorbet
     - Nonballoon
     - Pink/Blue Balloon
     - Purple/Blue/Red/Green Toxic
     - Spotted Tribal
     - UR Grapes
-  - .4 Non
+  - .4 Non (800 C$)
     - Gearback Tribal
     - Rose PPS
     - UR Rat
-  - .33 Non
+  - .33 Non (700 C$)
     - Blue/Red Rose
     - Cheshire Cat
     - Clydesdale
     - Grey/White Malk Dragon
     - Line Tribal
     - WWA
-  - .25 Non
+  - .25 Non (500 C$)
     - Dark Pink Shima B-Wolf
     - Light/Dark Heart Rat
     - Light/Dark Pawprint Rat
@@ -126,7 +125,7 @@
 
 ## September List Values
 
-  - 2.5 Mid Advents
+  - 2.5 Mid Advents (500 C$)
     - Angel Advent
     - Blood PPS
     - Bumblebee Spider
@@ -134,7 +133,7 @@
     - Purple Batdog
     - Purple Sleipnir
     - Red-X
-  - 2 Mid Advents
+  - 2 Mid Advents (450 C$)
     - Flop-Eared Pink September
     - Halloween Cat
     - Palomino Tess Horse
@@ -143,7 +142,7 @@
     - Pink/Rainbow/Light/Tricolor/Lexi Cake Dog
     - Sunjewel Bunny
     - Winged Blood Dog
-  - 1.5 Mid Advents
+  - 1.5 Mid Advents (400 C$)
     - Blue Ice Rat
     - Blue Rat
     - Flower/Toxic Rat
@@ -158,7 +157,7 @@
 
 ## Advent List Values
 
-  - 1.5 Mid Advents
+  - 1.5 Mid Advents (350 C$)
     - Brown Santa Cat
     - Brown/Grey/Zebra/White Carousel Horse
     - Grey Mini Husky
@@ -168,7 +167,7 @@
     - Timberwolf
     - Vixen
     - White Santa Cat
-  - 1.25 Mid Advents
+  - 1.25 Mid Advents (300 C$)
     - B&W Pointy-Eared Border Collie
     - Bandersnatch
     - Black/Cream/Brown/Green Fluffy Store Dog
@@ -203,7 +202,7 @@
     - Teal/Red Butterbun
     - Tinsel Lion
     - Yellow/Pink Cookie
-  - 1 Mid Advent
+  - 1 Mid Advent (250 C$)
     - Blue Sorbet Bun
     - BMD Bun
     - Buckskin PPS
@@ -231,7 +230,7 @@
     - Snowflake B-Wolf
     - Spotted Tribal Bun
     - Tufted Blood Dog
-  - .5 Mid Advent
+  - .5 Mid Advent (150 C$)
     - Black/Grey Dutch Bun
     - Blue Snowflake Scarf Dog
     - Brown Red-String Horse
