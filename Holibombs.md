@@ -171,7 +171,7 @@
     [img]https://i.imgur.com/5S3Cepw.png[/img][/center][/left]
     ```
 
-## Other Messages
+## Gift Wars
 
   - 
     ```
