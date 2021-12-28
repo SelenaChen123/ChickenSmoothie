@@ -101,7 +101,7 @@
     [size=200][color=#FF8C00]▬[/color][color=#FF9C24]▬[/color][color=#FFAD49]▬[/color][color=#FFBD6D]▬[/color][color=#FFCE92]▬[/color][color=#FFDEB6]▬[/color][color=#FFEFDB]▬[/color][color=#FFFFFF]▬[/color][color=#FFEFDB]▬[/color][color=#FFE0B6]▬[/color][color=#FFD092]▬[/color][color=#FFC06D]▬[/color][color=#FFB049]▬[/color][color=#FFA124]▬[/color][color=#FF9100]▬[/color][/size][/center]
     ```
 
-## Treat
+## Treat Message
 
   - 
     ```
@@ -116,7 +116,7 @@
     [list][b]I'm sorry I don't have much on your wishlist, but I hope you enjoy! ♥[/b][/list][/list]
     ```
 
-## Trick
+## Trick Message
 
   - 
     ```
@@ -126,7 +126,7 @@
     Feel free to check back later to see if my lights are on then![/b][/center]
     ```
     
-## Thanks
+## Thanks Messages
 
   - 
     ```
