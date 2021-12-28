@@ -1,4 +1,173 @@
-# Secret Santa Messages
+# Secret Santa
+
+## Thread
+
+  - 
+    ```
+    |♥| Chicken Smoothie Secret Santas |♥|
+    ```
+    - 
+      ```
+      [center][img]https://i.imgur.com/rnQSPyT.png[/img][/center]
+
+      [center][size=150]♥ [url=https://discord.gg/7xav9Uv]Secret Santa Discord[/url] ♥ [url=https://www.chickensmoothie.com/Forum/viewtopic.php?p=136325526#p136325526]Secret Santa's Letter Box[/url] ♥[/size][/center]
+
+      [center][img]https://i.imgur.com/AFXQBAI.png[/img][/center]
+
+      [list]Chicken Smoothie Secret Santas are members of the great and vast CS community who build up a collection of gifts for another user for Christmas. This annual holiday gifting event started back in 2011, almost 10 years ago! Thousands of Chicken Smoothie players have participated in this event over the years and have had a fantastic Christmas thanks to the generous players partaking in this event.
+
+      Secret Santa is a popular holiday game/event where everyone gets to be a Secret Santa and is randomly assigned someone else to gift. You aren't allowed to tell anyone who you are gifting and you won't know who is going to gift you. The whole point of this game/event is to collect gifts for the person that you are a Secret Santa for and give it to them on Christmas.[/list]
+
+      [center][img]https://i.imgur.com/bQcG2gO.png[/img][/center]
+
+      [list][*][b]2021 Chicken Smoothie Secret Santas is now up and open![/b]
+      [list]Please read over everything and spread the word![/list]
+      [*][b]Registration will end at 11:59 PM UTC (CS Time) on Tuesday, November 30th.[/b]
+      [list]Click [url=https://www.chickensmoothie.com/time.php]here[/url] for the current time in UTC (CS Time).[/list]
+      [*][b]The FAQ for both this thread and Secret Santa's Letter Box have been updated.[/b]
+      [list]I edited a bunch of FAQ questions and added a few in, so please re-read the FAQ in this thread and the FAQ in [url=https://www.chickensmoothie.com/Forum/viewtopic.php?p=136325526#p136325526]Secret Santa's Letter Box[/url].[/list]
+      [*][b]Registration is now closed![/b]
+      [list]Everyone should receive a PM from either me or one of the Little Elves with everything you need to know, including what tier you're in and who you're assigned to gift, within 24 hours. We all live in different time zones, so some people may get their PMs later than others. Bear with us, guys! We've got a lot of PMs to send out! Until all assignment PMs have been sent out, I can still try to work with the people who signed up late, so if there's anyone that hasn't gotten a form in yet, get your forms in ASAP! I'll stop accepting forms after all assignment PMs have been sent out.[/list]
+      [*][b]All assignment PMs have been sent out![/b]
+      [list]Everyone should have gotten a PM from either me or one of the Little Elves with their assigned tier and person to gift, even those of you who I was able to squeeze in after the registration deadline. If for some reason you didn't receive a PM from one of us, PM me and let me know.[/list]
+      [*][b]Send your gifts now![/b]
+      [list]Merry Christmas, everyone! It's now officially Christmas on Chicken Smoothie! We'll be sending out a PM to everyone, reminding you guys to send your gifts out now.[/list]
+      [*][b]I just sent out the final mass PM.[/b]
+      [list]Everyone, please reply asap! This way I can finalize things and make sure everyone gave and got a gift.[/list][/list]
+
+      [center][img]https://i.imgur.com/29ohMUi.png[/img][/center]
+
+      [list][*][b]Do try your hardest.[/b]
+      [list]You should give this your all! Do your very best to give your assigned person a great Christmas present![/list]
+      [*][b]Do ask questions if you have any.[/b]
+      [list]If you have a question, chances are someone else may have the same question. I may even post your question in the FAQ.[/list]
+      [*][b]Don't say who you are a Secret Santa for.[/b]
+      [list]Or else why would it be called Secret Santa?[/list]
+      [*][b]Don't harass or be rude to other Santas.[/b]
+      [list]Teasing, bullying, insults, or harassment will not be tolerated. If you have problems with another player, please contact me or one of the Little Elves.[/list]
+      [*][b]Don't ask for donations.[/b]
+      [list]Try your best to obtain gifts for your assigned person by your own means![/list]
+      [*][b]Don't spam this thread.[/b]
+      [list]Keep all discussion on-topic. You're welcome to chat all you'd like in the Secret Santa Discord.[/list][/list]
+
+      [center][img]https://i.imgur.com/xE6SY9t.png[/img][/center]
+
+      [list]Once registration closes, you will receive a Secret Santa and be assigned someone to be a Secret Santa for. Throughout the month of December, you will collect gifts for the person that you are a Secret Santa for and give it to them on Christmas.
+
+      There are 3 tiers that you can sign up for: the Uncommon Tier, the Rare Tier, and the Very Rare Tier. You can sign up for any number of tiers, but if you sign up for multiple tiers, you will be randomly assigned to a tier once registration closes.
+
+      You must provide a gift worth no less than the minimum of your tier. Your Santa will do the same for you. For example, if you sign up for the Rare Tier, the gift you send to your assigned person must contain at least 1 rare pet, along with uncommon, common very common, and OMG so common pets. You will also receive at least 1 rare pet, along with uncommon, common very common, and OMG so common pets from your Secret Santa. You can still send a gift with much more valuable pets, though!
+
+      Here are the 3 tiers that you can sign up for:
+
+      [b]Tier 1 - Uncommon Tier[/b]
+      [list][*]You are only expected to gift uncommon, common very common, and OMG so common pets.
+      [*]You may include rare, very rare, or OMG so rare pets in your gift, but you probably won't get any in return.[/list]
+
+      [b]Tier 2 - Rare Tier[/b]
+      [list][*]You are expected to gift at least 1 rare pet.
+      [*]Your gift doesn't need to only include rare pets.
+      [*]You may include very rare or OMG so rare pets in your gift, but you probably won't get any in return.[/list]
+
+      [b]Tier 3 - Very Rare Tier[/b]
+      [list][*]You are expected to gift at least 1 very rare or OMG so rare pet.
+      [*]Your gift doesn't need to only include very rare or OMG so rare pets.[/list][/list]
+
+      [center][img]https://i.imgur.com/nYvLjcQ.png[/img][/center]
+
+      [center][b][u]Membership Form[/u][/b]
+
+      Registration is closed. ♥[/center]
+      [list][strike][code]♥ [url=PROFILELINKGOESHERE]usernamegoeshere[/url]
+      [b]Will you dedicate yourself to being a Santa?:[/b] 
+      [b]Why do you want to be a Santa?:[/b] 
+      [b]Have you read the Rules & FAQ?:[/b] 
+      [b]What tier(s) would you like to sign up for?:[/b] 
+      [b]Other:[/b] 
+      [size=50]#membershipform[/size][/code][/strike][/list]
+
+      [center][img]https://i.imgur.com/vFubErl.png[/img][/center]
+
+      [quote][b]Are Secret Santas auto-accepted?[/b][/quote]
+      [list]Yes, anyone can join as long as you completely fill out and post a form.[/list]
+
+      [quote][b]When does registration close?[/b][/quote]
+      [list]Once a registration deadline has been decided, I'll make an announcement and post it in the News section. Registration usually ends on November 30th though, so you guys have the month of December to collect gifts for your assigned person.[/list]
+
+      [quote][b]How do I put my profile link and username in the form?[/b][/quote]
+      [list][url=https://imgur.com/a/OfuHT]Here's[/url] a link to a little mini tutorial.[/list]
+
+      [quote][b]Who do I gift?[/b][/quote]
+      [list]Once registration closes, you will receive a PM from either me or one of the Little Elves with your randomly assigned person to gift.[/list]
+
+      [quote][b]How am I assigned who to give a gift to?[/b][/quote]
+      [list]First, everyone is split into their respective tiers. If someone signed up for multiple tiers, they're randomly assigned to one of the tiers they signed up for. Then within each tier, the list of all players in the tier is randomized. Finally, we assign people to gift the person below them on each randomized list. For example, for each tier, the first person on the list gifts the second person, the second person on the list gifts the third person, etc. until the last person on the list gifts the first person. This way, everyone is randomly assigned someone to gift within their tier and it's impossible to get a gift from the same person that you're gifting![/list]
+
+      [quote][b]Can I be a Secret Santa for more than one user?[/b][/quote]
+      [list]No, you can't. In order to keep everything fair, everyone will give one gift and get one gift. However, it's always up to you how many people you want to gift outside of this event![/list]
+
+      [quote][b]When do I gift?[/b][/quote]
+      [list]You can send your gift after midnight on Christmas day according to [url=https://www.chickensmoothie.com/time.php]CS time (UTC)[/url]. You'll have 24 hours after that to send out your gifts before the Elves and I start checking in with everyone, since we're all in different time zones and people may need to send out their gifts out according to their own schedules. If you know you can't send your gift exactly on Christmas day, contact me or one of the Little Elves in advance.[/list]
+
+      [quote][b]How much do I give them?[/b][/quote]
+      [list]Your gift must be worth at least the minimum of your tier. There is no maximum, though! Since you have the entire month of December up until Christmas day to collect gifts, I highly encourage everyone to go above and beyond to try and make your assigned person's Christmas extra special. If you're feeling super generous, you're even welcome to sign up for a lower tier but send gifts valued at a higher tier, knowing that you'll probably receive a gift of much lower value.[/list]
+
+      [quote][b]Do I have to gift a dream pet?[/b][/quote]
+      [list]No, you don't. You're only required to gift within your tier. Dream pets are usually are really expensive, so don't worry about it too much. If you're feeling super generous, you could definitely try, though.[/list]
+
+      [quote][b]Does the gift have to be on their wishlist?[/b][/quote]
+      [list]It doesn't have to be, but it's highly encouraged. People are more likely to keep what they get if it's on their wishlist. If they've written a Letter to Santa, check to see if there's anything else they'd like and just try your very best to make them happy![/list]
+
+      [quote][b]Can I gift items, C$, art, or off-site items?[/b][/quote]
+      [list]Yes, you can. But first, if they've written a Letter to Santa, check to see if they'll like getting items, C$, art, or off-site items.[/list]
+
+      [quote][b]What if I don't know what they want?[/b][/quote]
+      [list]First, check to see if they've written a Letter to Santa. If they haven't, you can PM either me or one of the Little Elves to ask them to write one for you.[/list]
+
+      [quote][b]When the time comes, what do I say in my message?[/b][/quote]
+      [list]Something along the lines of... "Hi ____, I was your Secret Santa! I hope you enjoy my gift!" Personalize it, make them feel awesome, and try to make their day![/list]
+
+      [quote][b]What happens if someone doesn't give a gift?[/b][/quote]
+      [list]I will contact them personally to ask about their situation and ask them to immediately gift whoever they were assigned to gift. It may just be because they forgot to gift it at the right time, they were busy, or some other justified reason. However, if they knowingly didn't gift the person they were assigned to gift, refuses to give a gift, and just takes the gift that was given to them by their Secret Santa, they will be banned from ever participating again. I will then personally gift whoever doesn't get a gift.[/list]
+
+      [quote][b]Why does registration open so early?[/b][/quote]
+      [list]I gather up as many Secret Santas as possible throughout the month of November so that PMs can be sent out with who everyone is assigned to gift and the event can officially begin on December 1st.This gives everyone the entire month of December up until Christmas day to gather gifts.[/list]
+
+      [quote][b]Why is this not in the Free Adoptions forum?[/b][/quote]
+      [list]The Free Adoptions forum is used for one person to give everyone else gifts, whereas in the Secret Santa event, multiple players give gifts to each other. This is an event based around a group of players, so the Clubs and armies forum is the best place for it.[/list]
+
+      [quote][b]Are other gifting games like this allowed?[/b][/quote]
+      [list]Normally, events where the creator isn't the only person giving away gifts aren't allowed. I get special permission every year to continue Secret Santa. The only other annual gifting games like this that are allowed are Lights On Lights Off for Halloween and Holibombs for Christmas, and they're run by some of the Chicken Smoothie staff.[/list]
+
+      [center][img]https://i.imgur.com/2AJwVNF.png[/img][/center]
+
+      [center]Spread the word and help us advertise! I can also make custom ones for you if you'd like! ♥[/center]
+
+      [center][url=https://www.chickensmoothie.com/Forum/viewtopic.php?p=136325514#p136325514][img]http://i.imgur.com/2ywFSnD.png[/img][/url]
+      [size=85]Made by [url=http://www.chickensmoothie.com/Forum/memberlist.php?mode=viewprofile&u=256911]TheBeeGirls[/url].[/size]
+      [code][url=https://www.chickensmoothie.com/Forum/viewtopic.php?p=136325514#p136325514][img]http://i.imgur.com/2ywFSnD.png[/img][/url][/code]
+      [url=https://www.chickensmoothie.com/Forum/viewtopic.php?p=136325514#p136325514][img]https://imgur.com/KwD0b4O.png[/img][/url]
+      [size=85]Made with the help of [url=http://www.chickensmoothie.com/Forum/memberlist.php?mode=viewprofile&u=408095]alegreya.[/url][/size]
+      [code][url=https://www.chickensmoothie.com/Forum/viewtopic.php?p=136325514#p136325514][img]https://imgur.com/KwD0b4O.png[/img][/url][/code]
+      [url=https://www.chickensmoothie.com/Forum/viewtopic.php?p=136325514#p136325514][img]https://imgur.com/u8SjtXt.png[/img][/url]
+      [size=85]Made by [url=http://www.chickensmoothie.com/Forum/memberlist.php?mode=viewprofile&u=703939]ImThatRogue[/url].[/size]
+      [code][url=https://www.chickensmoothie.com/Forum/viewtopic.php?p=136325514#p136325514][img]https://imgur.com/u8SjtXt.png[/img][/url][/code]
+      [url=https://www.chickensmoothie.com/Forum/viewtopic.php?p=136325514#p136325514][img]https://imgur.com/vzt8dsK.png[/img][/url]
+      [size=85]Made by [url=http://www.chickensmoothie.com/Forum/memberlist.php?mode=viewprofile&u=703939]ImThatRogue[/url].[/size]
+      [code][url=https://www.chickensmoothie.com/Forum/viewtopic.php?p=136325514#p136325514][img]https://imgur.com/vzt8dsK.png[/img][/url][/code]
+      [url=http://fontmeme.com/party-girls-generation-font/][img]http://fontmeme.com/permalink/161204/10d3ff24a21a49c69ea72c7090617efc.png[/img][/url]
+      Made by [url=http://www.chickensmoothie.com/Forum/memberlist.php?mode=viewprofile&u=795063]ColdSnowball[/url].
+      [code][url=https://www.chickensmoothie.com/Forum/viewtopic.php?p=136325514#p136325514][img]http://fontmeme.com/permalink/161204/10d3ff24a21a49c69ea72c7090617efc.png[/img][/url][/code][/center]
+
+      [center][img]https://i.imgur.com/tMEdHC1.png[/img][/center]
+      [list][b]Secret Santa Leader[/b]
+      [list]♥ [url=http://www.chickensmoothie.com/Forum/memberlist.php?mode=viewprofile&u=703939]ImThatRogue[/url][/list]
+      [b]Little Elves (Helpers)[/b]
+      [list]♥ [url=https://www.chickensmoothie.com/Forum/memberlist.php?mode=viewprofile&u=209097]LissaJo[/url]
+      ♥ [url=https://www.chickensmoothie.com/Forum/memberlist.php?mode=viewprofile&u=749955]♔Voltaire♔[/url][/list]
+      [b]The Secret Santa Army[/b]
+      [list]♥ [url=INSERTPROFILELINKHERE]INSERTNAMEHERE[/url][/list][/list]
+      ```
 
 ## Registration
 
