@@ -1,4 +1,4 @@
-# My giveaway Games
+# My Giveaway Games
 
 ## Thread
 
