@@ -177,3 +177,5 @@
     ```
     I'm sorry, but I don't participate in gift wars since I feel awkward forcing the other player to gift me. >o< I'd rather just gift on my own accord. Thanks for taking the time to offer starting a gift war, though. I hope you'll still accept just this little holibomb from me! Happy holidays and I hope you have a wonderful day today! ^u^
     ```
+
+###### [Back To Table Of Contents](https://github.com/SelenaChen123/ChickenSmoothie/blob/main/README.md#chicken-smoothie)
