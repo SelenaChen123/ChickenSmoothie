@@ -1302,3 +1302,5 @@
     ```
     [center]Thanks so much for letting me know! It seriously helps save me a lot of work, so I really appreciate it. I'll go update it on the threads and on our spreadsheet. c:[/center]
     ```
+
+###### [Back To Table Of Contents](https://github.com/SelenaChen123/ChickenSmoothie/blob/main/README.md#chicken-smoothie)
