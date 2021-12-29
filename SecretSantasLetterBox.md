@@ -143,3 +143,5 @@
     ```
     [center]I'm sorry, but this thread is only for those who have signed up to participate in [url=https://www.chickensmoothie.com/Forum/viewtopic.php?p=136325514#p136325514]Chicken Smoothie Secret Santas[/url]. Registration closed in November for Chicken Smoothie Secret Santas, but if you'd like to learn more about the event to maybe participate next year, the first post of the thread that I linked has everything you need to know about how the event works! c:[/center]
     ```
+
+###### [Back To Table Of Contents](https://github.com/SelenaChen123/ChickenSmoothie/blob/main/README.md#chicken-smoothie)
