@@ -1,6 +1,6 @@
-# ChickenSmoothie
+# Chicken Smoothie
 
-## Table of Contents
+## Table Of Contents
 
 ### Code
 
