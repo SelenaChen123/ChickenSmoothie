@@ -574,7 +574,7 @@
         ```
       - 
         ```
-        [center]Marked you off on our spreadsheet now. But hehe I'm sosososo happy to hear that you enjoyed the event! <3 Thank [i]you[/i] again for participating in 2021's Secret Santa event, and I hope to see you participating again next year! c:[/center]
+        [center]Marked you off on our spreadsheet now. But hehe I'm really happy to hear that you enjoyed the event! <3 Thank [i]you[/i] again for participating in 2021's Secret Santa event, and I hope to see you participating again next year! c:[/center]
         ```
       - 
         ```
