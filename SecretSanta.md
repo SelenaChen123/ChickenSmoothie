@@ -574,15 +574,15 @@
         ```
       - 
         ```
-        [center]Marked you off on our spreadsheet now. But d'awwww thank you so much! I try my best. ;u; <333 And again, as always, thank [i]you[/i] for participating in 2021's Secret Santa event, and I hope to see you participating again next year! c:[/center]
-        ```
-      - 
-        ```
         [center]Marked you off on our spreadsheet now. But hehe I'm really happy to hear that you enjoyed the event! <3 Thank [i]you[/i] again for participating in 2021's Secret Santa event, and I hope to see you participating again next year! c:[/center]
         ```
       - 
         ```
         [center]Marked you off on our spreadsheet now. But d'awwww it’s my absolute pleasure! >u< Hehe I genuinely, thoroughly enjoy hosting this event every year because it just warms my heart to see you lovelies enjoying yourselves and working so hard to spread the wonderful spirit of kindness, love, and happiness during the holidays. <3 It's just awesome to be a part of. You guys are awesome. ^u^ But again, thank you for participating in 2021's Secret Santa event, and I hope to see you participating again next year! c:[/center]
+        ```
+      - 
+        ```
+        [center]Marked you off on our spreadsheet now. But d'awwww thank you so much! I try my best. ;u; <333 And again, as always, thank [i]you[/i] for participating in 2021's Secret Santa event, and I hope to see you participating again next year! c:[/center]
         ```
       - 
         ```
@@ -595,6 +595,10 @@
       -
         ```
         [center] Marked you off on our spreadsheet now. Who was the person that gifted you on Christmas? It may have been your Secret Santa and they just forgot to explicitly mention that in their message. XD[/center]
+        ```
+      - 
+        ```
+        [center]Marked you off on our spreadsheet now. But ahhhh I'm SO sorry that your assigned person became inactive! >o< It's partly my fault for not checking up with everyone more often to make sure everyone was active. ;-; I still hope you had a lovely holiday regardless! <333[/center]
         ```
       - 
         ```
