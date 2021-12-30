@@ -592,6 +592,10 @@
         ```
         [center]Marked you off on our spreadsheet now. Would you like to be notified of next year's Secret Santa?[/center]
         ```
+        - 
+          ```
+          [center]Alrighty, noted! Thank you again for participating in 2021's Secret Santa event, and I look forward to seeing you participate again next year! c:[/center]
+          ```
       -
         ```
         [center] Marked you off on our spreadsheet now. Who was the person that gifted you on Christmas? It may have been your Secret Santa and they just forgot to explicitly mention that in their message. XD[/center]
