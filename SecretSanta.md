@@ -582,6 +582,10 @@
         ```
       - 
         ```
+        [center]Marked you off on our spreadsheet now. But d'awww you're so sweet! Haha I always get so many messages like this asking to help out if someone doesn't end up getting a gift. The Elves and I always gather a gift for anyone that doesn't get a gift for whatever reason, but thanks so much for offering! <333 And thank you again for participating in 2021's Secret Santa event! I look forward to seeing you participate again next year! c:[/center]
+        ```
+      - 
+        ```
         [center]Marked you off on our spreadsheet now. Would you like to be notified of next year's Secret Santa?[/center]
         ```
       -
