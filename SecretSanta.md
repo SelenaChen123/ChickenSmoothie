@@ -574,11 +574,11 @@
         ```
       - 
         ```
-        [center]Marked you off on our spreadsheet now. But hehe I'm sosososo happy to hear that you enjoyed the event! <3 Thank [i]you[/i] again for participating in 2021's Secret Santa event, and I hope to see you participating again next year! c:[/center]
+        [center]Marked you off on our spreadsheet now. But d'awwww it’s my absolute pleasure! >u< Hehe I genuinely, thoroughly enjoy hosting this event every year because it just warms my heart to see you lovelies enjoying yourselves and working so hard to spread the wonderful spirit of kindness, love, and happiness during the holidays. <3 It's just awesome to be a part of. You guys are awesome. ^u^ But again, thank you for participating in 2021's Secret Santa event, and I hope to see you participating again next year! c:[/center]
         ```
       - 
         ```
-        [center]Ahhh so sorry for the late reply! Marked you off on our spreadsheet now. But d'awwww it’s my absolute pleasure! >u< Hehe I genuinely, thoroughly enjoy hosting this event every year because it just warms my heart to see you lovelies enjoying yourselves and working so hard to spread the wonderful spirit of kindness, love, and happiness during the holidays. <3 It's just awesome to be a part of. You guys are awesome. ^u^ But again, thank you for participating in 2021's Secret Santa event, and I hope to see you participating again next year! c:[/center]
+        [center]Marked you off on our spreadsheet now. But hehe I'm sosososo happy to hear that you enjoyed the event! <3 Thank [i]you[/i] again for participating in 2021's Secret Santa event, and I hope to see you participating again next year! c:[/center]
         ```
       - 
         ```
