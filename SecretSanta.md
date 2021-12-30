@@ -748,7 +748,7 @@
       I'm really sorry to have to do this at the last second. >o< If you need help with anything, please don't hesitate to message me and ask! This is so very last-minute and I sincerely apologize![/center]
       ```
 
-## Haven't Received Gift
+## Hasn't Received Gift
 
   - 
     ```
