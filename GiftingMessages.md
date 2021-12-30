@@ -238,6 +238,10 @@
   - Winning Gifts
     - 
       ```
+      Oh my gosh, I actually won?! Thank you SO much for this! *u* And thank you for hosting this incredibly generous giveaway! <333
+      ```
+    - 
+      ```
       Oh. My. God. I think my heart just stopped for a minute. Oh my gosh, I actually won?! THANK YOU THANK YOU THANK YOU THANK YOU THANK YOU SOOOOOO SO SO SO SOOOOOOOOOOOO FREAKING MUCH!!!!!!!! <333333 I'm actually sitting in my bed, in shock right now. *o* Aaaaaah I don't know what to say... I'm truly speechless. I really have no words to say. This is amazing. So many indescribable feelings right now. >u< GAAAAAAAH freaking out, freaking outtttt!!!! You're absolutely amazing. Again, thank you sosososososososososososo much for hosting this incredibly generous giveaway, giving us the chance to win this beautiful cake dog, and for picking me out of all people to win this babe. Thank you. <33333
       ```
     - 
