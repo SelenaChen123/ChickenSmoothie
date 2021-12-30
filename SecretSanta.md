@@ -580,6 +580,10 @@
         ```
         [center]Ahhh so sorry for the late reply! Marked you off on our spreadsheet now. But d'awwww it’s my absolute pleasure! >u< Hehe I genuinely, thoroughly enjoy hosting this event every year because it just warms my heart to see you lovelies enjoying yourselves and working so hard to spread the wonderful spirit of kindness, love, and happiness during the holidays. <3 It's just awesome to be a part of. You guys are awesome. ^u^ But again, thank you for participating in 2018's Secret Santa event, and I hope to see you participating again next year! c:[/center]
         ```
+      -
+        ```
+        [center] Marked you off on our spreadsheet now. Who was the person that gifted you on Christmas? It may have been your Secret Santa and they just forgot to explicitly mention that in their message. XD[/center]
+        ```
       - 
         ```
         [center]Marked you off on our spreadsheet now. But ahhhh so sorry to make you wait for your assigned person to accept! >o< Could you wait a bit longer for them to accept? I understand it can get pretty busy and hectic around this time of year, so your assigned person may be preoccupied offline. Maybe give it another week or so, and if they still don't come online to accept, just cancel it. I'll continue trying to contact them in the meantime. Again, super sorry for all of this! >n<[/center]
