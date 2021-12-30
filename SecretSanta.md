@@ -778,6 +778,10 @@
     ```
     [center]I'm so sorry for the late response! I've marked you off on our spreadsheet. Did you end up getting your gift now? :o[/center]
     ```
+    - 
+      ```
+      [center]Thank goodness! Alright, you're all set! Thank you again for participating in 2021's Secret Santa event, and I look forward to seeing you participate again next year! c:[/center]
+      ```
   - 
     ```
     [center]I'm [i]so[/i] sorry you didn't receive a gift in time! I'll be messaging your Secret Santa to sort things out. In the meantime, I'll be personally sending you a gift. Thank you [i]so[/i] much for participating in 2020's Secret Santa event. I hope to see you participating again next year! c:[/center]
