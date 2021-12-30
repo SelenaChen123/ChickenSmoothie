@@ -197,13 +197,13 @@
       ```
       [center]Oh. My. Goodness. Gracious.
 
-      You are just... the sweetest thing. ;u; Aaaaaah you have no idea how much your words mean to me. Honestly, it's a bit difficult, hosting these giveaways, but seeing you guys so happy and having fun, it just makes everything totally worth it. I wouldn't trade what I do for the world. I genuinely enjoy hosting these things. Gahhh this is why I'm addicted to this site. CS is just such a magically wonderful place, full of amazing people like you. You are what makes CS magical, ya know that?
+      You are just... the sweetest thing. ;u; Aaaaaah you have no idea how much your words mean to me. Honestly, it is hard work, but seeing you guys so happy and having fun, it just makes everything totally worth it. I genuinely enjoy hosting this event every year. Gahhh this is why I'm addicted to this site. CS is just such a magically wonderful place, full of amazing people like you. You are what makes CS magical, ya know that?
 
       Thank you so so so so SO much for this [i]amazing[/i] gift! *o* You are just too amazing. ;u; This just made my [strike]day[/strike] no, my entire week. <3 Thank you so much, love~! ♥
 
       [size=200]You are absolutely amazing, I hope you know that. ❤[/size]
 
-      Merry Christmas, and I hope you have a fantastic day today~! (^u^)/[/center]
+      Again, thank you for your thoughtful gift, and I hope you have a fantastic day today~! (^u^)/[/center]
       ```
     - 
       ```
