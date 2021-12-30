@@ -598,6 +598,10 @@
         ```
       - 
         ```
+        [center]Marked you off on our spreadsheet now. I'm SO sorry your Secret Santa didn't seem to give the best gift this year! I feel SO bad when some users' gifts aren't on par with some of the others, so I tried taking steps to help that sort of situation by implementing rarity tiers... The tier system we've been trying lately is supposed to help that sort of thing, but we made sure to emphasize that whatever tier you signed up for had minimum rarity requirements, rather than value requirements, since it's so hard to give definitive values for things lately. This way, generous users are able to spoil whoever they want, but at the same time, because the tiers are differentiated by rarity, there are always a few bad apples who seem to just do the bare minimum despite my encouragement [strike]pleas[/strike] to go all out if possible. ;n; I'm sososososo sorry about this! >o< I definitely take note of anyone who doesn't seem to attempt to get their assigned person something they'd like. But regardless, I still hope you had a lovely holiday season and I hope you can feel proud of yourself for participating in this event, giving someone a special gift, and making someone's Christmas. Cuz that's just a lovely feeling. <3[/center]
+        ```
+      - 
+        ```
         [center]Marked you off on our spreadsheet now. But ahhhh I'm SO sorry that your assigned person became inactive! >o< It's partly my fault for not checking up with everyone more often to make sure everyone was active. ;-; I still hope you had a lovely holiday regardless! <333[/center]
         ```
       - 
