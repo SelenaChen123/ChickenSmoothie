@@ -786,6 +786,10 @@
     ```
     [center]I'm [i]so[/i] sorry you didn't receive a gift in time! I just took a look, and it seems like your Secret Santa has been inactive for a while now. I'm [i]really[/i] sorry, it's partly my fault for not checking up with everyone more often to make sure everyone was active. I'll be personally sending you a gift. Again, I apologize and thank you [i]so[/i] much for participating in this year's Secret Santa event. <3[/center]
     ```
+  - 
+    ```
+    [center]I'm [i]so[/i] sorry you didn't receive a gift in time! I just took a look, and it seems like your Secret Santa got banned recently?? o.o I'm really, really, [i]really[/i] sorry, it's partly my fault for not checking up with everyone more often to make sure everyone was active. I'll be personally sending you a gift! Again, I apologize, but thank you [i]so[/i] much for participating in this year's Secret Santa event. <3[/center]
+    ```
     
 ## Gifting
 
