@@ -92,6 +92,10 @@
         ```
     - 
       ```
+      Awww thank you so much for the super thoughtful gift! <333 You always send me such sweet gifts... ;u; I ADORE YOU, you know that? >u< Keep on keeping on you beautiful angel! MWAH~ <3333
+      ```
+    - 
+      ```
       [center]Oh. My. Goodness. Gracious.
 
       Thank you so so so so SO much for this [i]amazing[/i] gift! *o* You are just too amazing. ;u; This just made my [strike]day[/strike] no, my entire week. <3 Thank you so much, love~! ♥
