@@ -960,6 +960,40 @@
     ```
   - 
     ```
+    [left][img]https://imgur.com/s9U5Lu7.png[/img][/left][left][color=transparent]x[/color][/left][left][color=transparent]x
+    x[/color]
+    [img]https://txt.1001fonts.net/img/txt/b3RmLjYwLjAwMDAwMC5TR1ZzYkc4aC4w/magnolia-script.regular.webp[/img]
+
+    [size=85]I'm [i]so[/i] sorry you weren't able to receive a Christmas
+    present from your Secret Santa in time! I'll personally
+    give you a little Christmas present instead. I hope that
+    you'll accept this little Christmas gift from me. c:
+
+    I want to thank you from the bottom of my heart for
+    participating in this year’s Secret Santa event. As
+    always, I really, thoroughly enjoyed hosting Secret
+    Santa for you all. It's been yet another rough year
+    for all of us I'm sure, but you should be incredibly
+    proud of yourself, to be able to call yourself a 2021
+    Secret Santa. It’s thanks to incredibly generous people
+    like you that this event is a success every year. Over
+    400 people came together to make Christmas extra
+    special this year, and that's just... [i]amazing[/i]. It just
+    warms my heart to see you lovely people enjoying
+    yourselves and working so hard to spread the lovely
+    spirit of kindness, love, and happiness during the
+    holidays. <3 It's just awesome to be a part of.
+
+    You ought to be really proud of yourself, for making
+    someone’s Christmas special this holiday season. After
+    all, that’s what these Secret Santa events are all about:
+    making people happy during the holiday season. So  I
+    want to thank you, really, [i]thank you so much[/i] for being
+    a 2021 Secret Santa. Happy new year, and I truly hope
+    this year treats you well. Have an amazing day/night! ♥[/size][/left]
+    ```
+  - 
+    ```
     [left][img]https://imgur.com/1A1JHk4.png[/img][/left][left][color=transparent]x[/color][/left][left][color=transparent]x
     x[/color]
     [img]https://goo.gl/oHozAY[/img]
