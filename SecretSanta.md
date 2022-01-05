@@ -1075,6 +1075,41 @@
     ```
   - 
     ```
+    [left][center][img]https://txt.1001fonts.net/img/txt/b3RmLjYwLjAwMDAwMC5TR1ZzYkc4aC4w/magnolia-script.regular.webp[/img]
+
+    [size=85][b]I don't have too much right now, but I hope that you'll accept
+    this little late present from me!
+
+    I just wanted to give everyone a little something as a token
+    of my appreciation for participating in this year’s Secret
+    Santa event. As always, I really, thoroughly enjoyed hosting
+    this event. You should be proud of yourself, to be able to
+    call yourself a 2021 Secret Santa. It’s thanks to incredibly
+    generous people like you that this event is a success every
+    year. 2021 has been another rough year for everyone I'm
+    sure, but you should be incredibly proud of yourself, to be
+    able to call yourself a 2021 Secret Santa. It’s alwats thanks
+    to incredibly generous people like you that this event is such
+    a success every year. Over 400 people came together to make
+    Christmas extra special this year, and that's just... amazing.
+    It really warms my heart to see you lovely angels enjoying
+    yourselves and working so hard to spread the lovely spirit of
+    community, kindness, love, and happiness during the holidays.
+    Goodness knows we all need that more than ever this year.
+
+    You ought to be really proud of yourself, for making someone’s
+    Christmas extra special this holiday season. After all, that’s
+    what these Secret Santa events are all about: making people
+    happy during the holiday season. So I really want to thank you,
+    seriously, thank you SO much for being a 2021 Secret Santa.
+    Happy new year, and I truly hope this year treats you well.
+    Have an amazing day/night, love! ♥[/b][/size]
+
+
+    [img]https://i.imgur.com/5S3Cepw.png[/img][/center][/left]
+    ```
+  - 
+    ```
     [left][img]https://imgur.com/s9U5Lu7.png[/img][/left][left][color=transparent]x[/color][/left][left][color=transparent]x
     x
     x
