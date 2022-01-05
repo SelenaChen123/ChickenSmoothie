@@ -1220,6 +1220,28 @@
 
     [img]https://i.imgur.com/5S3Cepw.png[/img][/list]
     ```
+  - 
+    ```
+    [left][center][img]https://txt.1001fonts.net/img/txt/b3RmLjYwLjAwMDAwMC5TR1ZzYkc4aC4w/magnolia-script.regular.webp[/img]
+
+    [size=85][b]I don't have too much right now, but I hope that you'll
+    accept this little late present from me!
+
+    As always, I just wanted to give you a little something
+    as a token of my appreciation for being a Little Elf this
+    year and helping me out with Secret Santa. 2021 has
+    been yet another rough year for all of us and we've all
+    been busy dealing with a bunch of stuff offsite, yet you
+    still took time out of your busy days to help me with
+    Secret Santa again this year. I can't tell you enough how
+    much I appreciate you and all you do for not just me,
+    but this lovely community that we've built together.
+
+    Happy new year and thank you so much for everything. ♥[/b][/size]
+
+
+    [img]https://i.imgur.com/5S3Cepw.png[/img][/center][/left]
+    ```
 
 ## Positivity
 
