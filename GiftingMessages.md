@@ -96,6 +96,10 @@
       ```
     - 
       ```
+      Omg you're so sweet~ AAAAAAAAA thank you SO much for this ADORABLE gift! *u* I love love love love LOVE the little hedgehogs! I have a hoard of em for my real life baby, Lychee the hedgie bb <333
+      ```
+    - 
+      ```
       [center]Oh. My. Goodness. Gracious.
 
       Thank you so so so so SO much for this [i]amazing[/i] gift! *o* You are just too amazing. ;u; This just made my [strike]day[/strike] no, my entire week. <3 Thank you so much, love~! ♥
