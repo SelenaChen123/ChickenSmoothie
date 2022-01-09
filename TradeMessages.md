@@ -147,6 +147,10 @@
     ```
     Ah, I just got what I was trying to get. Regardless, thanks for your time! Hope you have a wonderful day today! ^u^
     ```
+  - 
+    ```
+    These trades have been here for a while now, so I'm clearing out my trading center! Please do resend if necessary!
+    ```
 
 ## NFT
 
