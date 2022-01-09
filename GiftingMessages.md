@@ -4,6 +4,12 @@
 
   - 
     ```
+    [list][img]https://txt.1001fonts.net/img/txt/b3RmLjYwLjAwMDAwMC5TR1ZzYkc4aC4w/magnolia-script.regular.webp[/img]
+
+    [b]I just wanted to drop off a small gift. Enjoy and have a lovely day today! ♥[/b][/list]
+    ```
+  - 
+    ```
     [list][img]http://goo.gl/vVsMiJ[/img]
 
     [img]https://tinyurl.com/bdaygiftmessage[/img][/list]
@@ -25,14 +31,6 @@
     [list][img]https://txt.1001fonts.net/img/txt/b3RmLjQwLjAwMDAwMC5RMjl1WjNKaGRIVnNZWFJwYjI1eklRLjA/magnolia-script.regular.webp[/img]
 
     You’ve found my hidden message! Here’s a little gift! ♥[/list]
-    ```
-  - 
-    ```
-    [left][img]https://goo.gl/tpJ1F2[/img][/left][left][img]https://goo.gl/rvKxe7[/img]
-
-    [img]https://goo.gl/BCXERy[/img]
-
-    [img]https://goo.gl/xIvlgE[/img][/left]
     ```
   - 
     ```
