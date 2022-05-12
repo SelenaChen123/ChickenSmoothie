@@ -2,7 +2,7 @@
 
 ## Table Of Contents
 
-This is ImThatRogue's storage of BBCode, copy-paste messages, and information for Chicken Smoothie.
+This is [ImThatRogue](https://www.chickensmoothie.com/Forum/memberlist.php?mode=viewprofile&u=703939)'s storage of BBCode, copy-paste messages, and information for Chicken Smoothie.
 
 ### Code
 
