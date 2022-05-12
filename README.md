@@ -2,6 +2,8 @@
 
 ## Table Of Contents
 
+This is ImThatRogue's storage of BBCode, copy-paste messages, and information for Chicken Smoothie.
+
 ### Code
 
   - [My Auction House](https://github.com/SelenaChen123/ChickenSmoothie/blob/main/MyAuctionHouse.md#my-auction-house)
